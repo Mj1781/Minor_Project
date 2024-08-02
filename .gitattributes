@@ -1,0 +1,2 @@
+Minor[[:space:]]project/Project.exe filter=lfs diff=lfs merge=lfs -text
+Minor[[:space:]]project/Project.pck filter=lfs diff=lfs merge=lfs -text
